@@ -1,4 +1,4 @@
-
+hola
 package hotel;
 
 /**
