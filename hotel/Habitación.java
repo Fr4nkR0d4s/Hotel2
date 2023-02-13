@@ -1,4 +1,5 @@
-hola
+private class Habitación
+
 package hotel;
 
 /**
@@ -80,3 +81,6 @@ public class Habitación {
     }
 
 }
+
+
+Printf "Hola Mundo"
